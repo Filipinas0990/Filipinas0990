@@ -23,26 +23,45 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá, eu sou o Filipe Oliveira 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2>Sobre mim</h2>
 
-###
+<ul>
+  <li>Desenvolvedor backend com foco em arquitetura limpa e performance</li>
+  <li>Atualmente trabalhando com <b>JAVA</b></li>
+  <li>Aberto a colaborações em projetos open source</li>
+</ul>
 
-<p align="left">I'm João from Rio Verde<br><br>- 🔭 I’m working as Backend Java Developer<br>- 📚 I'm currently learning Java & SQL<br>- ⚡ In my free time I like to create new projects or solve rubiks cube</p>
+<h2>Tecnologias</h2>
 
-###
+<div style="
+background-color:#0d1117;
+border-radius:8px;
+padding:16px;
+font-family:monospace;
+color:#c9d1d9;
+border:1px solid #30363d;
+width:fit-content;
+">
 
-<h3 align="left">🛠 Language and tools</h3>
+<p><b>Linguagens:</b> &nbsp;&nbsp;Python · Java · JavaScript & TypeScript</p>
+<p><b>Frameworks:</b> &nbsp;Django · Spring Boot · Express  · ReactJs </p>
+<p><b>Banco de Dados:</b> PostgreSQL · MongoDB · Redis  ·  Supabase</p>
+<p><b>DevOps:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker · AWS · CI/CD</p>
+<p><b>Outros:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REST · GraphQL · Microserviços</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+<br>
+
+<hr>
+
+<p align="center">
+<i>"Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas, tende bom ânimo, eu venci o mundo."</i><br>
+— **João 16:33**
+</p>
 
 ###
